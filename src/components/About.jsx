@@ -18,7 +18,7 @@ function About() {
                     <br />
 
                     <p className='text-xl'>
-                        I specialize in full-stack development using tools and frameworks like ReactJS, NodeJS, MongoDB, and PostgreSQL. I also have a strong interest in Machine Learning and SQL and I'm certified as a MongoDB Associate Developer. With leadership roles like <span className='font-bold text-blue-400'>Joint Secretary</span> of the CSE Association at KEC and internship experience in AI/ML, I thrive in collaborative environments that help me grow both technically and personally.
+                        I specialize in full-stack development using tools and frameworks like ReactJS, NodeJS, MongoDB, and PostgreSQL. I also have a strong interest in Machine Learning and SQL and I'm certified as a MongoDB Associate Developer. With leadership roles like <span className='font-bold text-blue-400'>Joint Secretary</span> and <span className='font-bold text-blue-400'>Newsletter Team Head</span> of the CSE Association at KEC and internship experience in AI/ML, I thrive in collaborative environments that help me grow both technically and personally.
                     </p>
 
                     <div className='mt-8'>
