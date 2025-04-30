@@ -19,7 +19,7 @@ export const Home = () => {
           
           <div className='animate-fadeIn' style={{animationDelay: '0.5s'}}>
             <p className='text-gray-400 py-4 max-w-md'>
-              I have 2 years of experience in designing and developing web applications.
+              I have 6 months of experience in designing and developing web applications.
               Currently, I love to work on web applications using technologies like 
               <span className='text-blue-400'> React</span>, 
               <span className='text-blue-400'> MongoDB</span>, and
