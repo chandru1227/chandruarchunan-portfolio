@@ -54,7 +54,7 @@ const Navbar = () => {
       }`}
     >
       <div>
-        <h1 className="text-4xl font-signature ml-2 text-blue-400">Chandru</h1>
+        <h1 className="text-4xl font-sans ml-2 text-blue-400">Chandru</h1>
       </div>
 
       <ul className="hidden md:flex gap-1">
