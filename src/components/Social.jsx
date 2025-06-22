@@ -40,7 +40,7 @@ function Social() {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/CHANDRU.pdf',
+            href: '/CHANDRU_A.pdf',
             style: 'rounded-br-md',
             download: true,
         }
