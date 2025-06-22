@@ -12,7 +12,7 @@ function Certificates() {
       icon: <SiMongodb className="text-green-500" size={30} />,
       description: "Certified MongoDB Associate Developer with expertise in Node.js integration and database management.",
       credentialId: "MDBsmsu7tih4y",
-      pdfLink: "https://drive.google.com/file/d/12_qnNCySTsK4JoICvRJlo8Z7wlstQ1rB/view?usp=drive_link" // Link to MongoDB certificate PDF
+      pdfLink: "https://drive.google.com/file/d/1y08JjBvLhSRywVsE_trOFbALwaGqR5kN/view?usp=drive_link" // Link to MongoDB certificate PDF
     }
   ];
 
