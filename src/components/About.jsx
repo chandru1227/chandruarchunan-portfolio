@@ -13,7 +13,7 @@ function About() {
 
                 <div className='bg-gray-900 rounded-xl shadow-lg p-8 mt-6 hover:shadow-blue-400/10 transition-all duration-300 animate-fadeIn'>
                     <p className='text-xl mt-20'>
-                        Hello! I'm <span className='font-bold text-blue-400'>Chandru A</span>, a Computer Science and Engineering student at Kongu Engineering College with a CGPA of 8.77. I'm passionate about technology and innovation, always eager to learn new skills and stay updated with emerging trends in the tech world.
+                        Hello! I'm <span className='font-bold text-blue-400'>Chandru A</span>, a Computer Science and Engineering student at Kongu Engineering College with a CGPA of 8.69. I'm passionate about technology and innovation, always eager to learn new skills and stay updated with emerging trends in the tech world.
                     </p>
                     <br />
 
