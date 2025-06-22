@@ -41,7 +41,7 @@ function Project() {
       image: TextileImage,
       tech: 'ReactJS, NodeJS, ExpressJS, MongoDB',
       description:
-        'Internal tool for managing inventory and orders in a textile business. Developed as a full-stack solution to streamline textile operations. (Feb 2025 - Apr 2025)',
+        'Inventory and order management tool for textile businesses. Built with MERN stack to streamline internal operations and order tracking.',
       codeLink: 'https://kumartextiles.vercel.app',
     },
   ];
